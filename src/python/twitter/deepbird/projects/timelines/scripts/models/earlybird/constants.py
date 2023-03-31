@@ -8,7 +8,8 @@ INDEX_BY_LABEL = {
   "is_profile_clicked": 5,
   "is_replied": 6,
   "is_retweeted": 7,
-  "is_video_playback_50": 8
+  "is_video_playback_50": 8,
+  "is_arthurair_es":1000
 }
 
 TARGET_LABEL_IDX = 0
